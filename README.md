@@ -93,7 +93,6 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
 - LinkedIn: [paulina-peralta](https://www.linkedin.com/in/paulina-peralta-916a46140/)
 - Email: pauliperalta@gmail.com
 - Ubicación: Paraguay 🇵🇾
-- Research Gate: [profile/Paulina-Peralta](https://www.researchgate.net/profile/Paulina-Peralta)
 
 ---
 
