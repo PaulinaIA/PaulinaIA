@@ -32,9 +32,9 @@ Actualmente preparándome para cursar un Máster en IA en la Universidad Polité
 
 ### 🚀 Proyectos Destacados
 
-- **[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)** - Sistema de predicción para trading de criptomonedas usando algoritmos de ML y análisis de series temporales. Implementa modelos LSTM y Random Forest para predecir fluctuaciones de precio con +70% de precisión.
+- **[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)** - Algoritmo de predicción para trading de criptomonedas utilizando algoritmos de ML y análisis de series temporales. Incluyendo la implementación de modelos LSTM y Random Forest para predecir fluctuaciones de precio con +70% de precisión.
 
-- **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)** - Análisis avanzado de sentimiento aplicado a posts de Reddit sobre cambios climáticos. Utiliza técnicas de NLP y transformer models para extraer insights sobre percepción medioambiental.
+- **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)** - Análisis avanzado de sentimiento aplicado a posts de Reddit sobre cambios climáticos. Utilizando técnicas de NLP y transformer models para extraer insights sobre percepción medioambiental.
 
 - **[Harry-Potter-LLMs-Adventure](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)** - Chatbot interactivo basado en LLMs que crea experiencias narrativas personalizadas en el universo de Harry Potter, donde cada decisión del usuario influye en el desarrollo de la historia.
 
@@ -58,14 +58,12 @@ Actualmente preparándome para cursar un Máster en IA en la Universidad Polité
 ### 🌐 Idiomas
 
 - Español (Nativo)
-- Inglés (Profesional)
-- Portugués (Intermedio)
+- Inglés (Intermedio)
 
 ### 📫 Contacto
 
 - LinkedIn: [paulina-peralta](https://www.linkedin.com/in/paulina-peralta-916a46140/)
-- Email: paulina.peralta@ia-dev.com
-- Twitter: [@PaulinaAI_Tech](https://twitter.com/PaulinaAI_Tech)
+- Email: pauliperalta@gmail.com
 - Ubicación: Paraguay 🇵🇾
 
 ---
