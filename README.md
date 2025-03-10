@@ -70,8 +70,7 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
 ### 📚 Formación Académica
 
 - **Ingeniería en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
-  - Proyecto final: "Diseño e implementación de un anemómetro ultrasónico del tipo IOT de bajo costo relativo"
-  - Aplicación de algoritmos de procesamiento de señales y aprendizaje automático para calibración de sensores
+  - Proyecto final de carrera: "Diseño e implementación de un anemómetro ultrasónico del tipo IOT de bajo costo relativo"
 
 - **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
   - Especialización en sistemas embebidos y procesamiento digital de señales
