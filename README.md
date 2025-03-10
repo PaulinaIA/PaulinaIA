@@ -81,12 +81,6 @@ Mi enfoque metodológico se basa en:
   
 - **Federated learning para NLP**: Exploración de técnicas de aprendizaje federado para entrenar modelos de lenguaje preservando la privacidad de los datos, con énfasis en aplicaciones de análisis de sentimiento en entornos clínicos.
 
-### 📝 Pre-prints y Documentación Técnica
-
-- "Hybrid LSTM-Attention Mechanisms for Cryptocurrency Price Prediction" - Documento técnico detallando la arquitectura y resultados del proyecto Crypto-ML-Predictor.
-  
-- "Sentiment-Weather Correlation Analysis: A Reddit-based Study" - Pre-print sobre metodología y hallazgos del proyecto Weather-Mood-Sentiment-NLP-Analysis.
-
 ### 🌐 Idiomas
 
 - Español (Nativo)
