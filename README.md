@@ -3,7 +3,7 @@
 
 Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural y el análisis de datos para resolver problemas complejos. Mi enfoque combina métodos avanzados de ML/DL para análisis de sentimiento, predicción de series temporales y modelado de datos multimodales.
 
-**Actualmente preparándome para cursar un Máster en IA con enfoque en investigación en la Universidad Politécnica de Madrid (UPM).**
+**Actualmente preparándome para cursar un Máster en IA con enfoque en investigación.**
 
 ### 💡 Áreas de Especialización e Interés
 
