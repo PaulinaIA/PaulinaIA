@@ -69,10 +69,9 @@ Mi enfoque metodológico se basa en:
 ### 📚 Educación e Investigación Académica
 
 - **Ingeniería en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
-  - Proyecto final: "Implementación de redes neuronales en sistemas embebidos para procesamiento de señales en tiempo real"
+  - Proyecto final: "Diseño e implementación de un anemómetro ultrasónico del tipo IOT de bajo costo relativo"
   
 - **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
-  - Tesis: "Análisis comparativo de algoritmos de visión por computadora para detección de patrones en sistemas de vigilancia de bajo costo"
 
 ### 🌱 Investigación en Curso
 
