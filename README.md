@@ -1,5 +1,5 @@
 # 👋 Hola, soy Paulina Peralta (@PaulinaIA)
-## 👩‍💻 Ingeniera de IA & Científica de Datos | Investigadora en IA
+## Ingeniera de IA & Científica de Datos | Investigadora en IA
 
 Investigadora apasionada por la intersección entre Inteligencia Artificial, Procesamiento de Lenguaje Natural y análisis de datos para resolver problemas complejos con enfoques innovadores. Mi trabajo se centra en la aplicación de métodos avanzados de ML/DL para el análisis de sentimiento, predicción de series temporales y modelado de datos multimodales.
 
