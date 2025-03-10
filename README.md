@@ -45,8 +45,8 @@ Actualmente preparándome para cursar un Máster en IA en la Universidad Polité
 
 ### 📚 Educación
 
-- **Máster en Inteligencia Artificial** (Próximamente) - Universidad Politécnica de Madrid
-- **Ingeniería en Sistemas Computacionales** - Universidad Nacional de Asunción
+- **Ingeniería en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
+- **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
 
 ### 🌱 Investigación Actual
 
