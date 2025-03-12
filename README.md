@@ -3,8 +3,6 @@
 
 Especialista en procesamiento de señales digitales, análisis de datos y desarrollo de soluciones con Machine Learning.
 
-**Candidata al Máster en Inteligencia Artificial - Universidad Politécnica de Madrid**
-
 ### Proyectos Destacados
 
 **[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
