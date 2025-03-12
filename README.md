@@ -74,7 +74,6 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
 
 - **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
   - Especialización en sistemas embebidos y procesamiento digital de señales
-  - 
 
 ### 🌐 Idiomas
 
