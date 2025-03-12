@@ -23,7 +23,7 @@ Sistema de trading algorítmico para criptomonedas basado en machine learning.
 - Precisión: 74% en predicciones, ROC AUC: ~0.88
 - Pipeline completo: extracción de datos desde APIs, procesamiento con 15+ indicadores técnicos, balanceo con SMOTE
 - Tecnologías: Python, XGBoost, scikit-learn, Pandas, NumPy, Optuna
-- 
+  
 ### Proyecto de Investigación Aplicada
 
 **Ultrasonic-Anemometer-IoT**  
