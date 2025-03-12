@@ -81,6 +81,3 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
 - Email: pauliperalta@gmail.com
 - Ubicación: Paraguay 🇵🇾
 
----
-
-*"Mi objetivo es aplicar la inteligencia artificial no solo como herramienta de análisis, sino como medio para descubrir nuevos paradigmas que expandan nuestra comprensión de datos complejos y generen soluciones innovadoras para desafíos actuales."*
