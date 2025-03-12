@@ -51,9 +51,11 @@ Sistema de trading algorítmico para criptomonedas basado en machine learning.
 - Tecnologías: Python, XGBoost, scikit-learn, Pandas, NumPy, Optuna
 
 **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
-Análisis de correlación entre condiciones climáticas y sentimiento en redes sociales.
-- Tecnologías: Python, Transformers, NLTK, SpaCy, scikit-learn
-- Implementación: Modelos NLP para análisis de sentimiento y clustering semántico
+Sistema integral para análisis de contenido sobre cambio climático en Reddit.
+- Implementación de análisis multi-método combinando VADER (enfoque léxico) y modelos transformer (contextual)
+- Clustering semántico con SentenceTransformers y modelado de tópicos mediante LDA
+- Reconocimiento de entidades nombradas para identificar actores relevantes en el discurso climático
+- Tecnologías: Python, PySpark, HuggingFace, NLTK, spaCy, scikit-learn
 
 ### Formación Académica
 
