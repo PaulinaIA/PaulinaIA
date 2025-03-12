@@ -1,5 +1,5 @@
 # Paulina Peralta (@PaulinaIA)
-## Ingeniera en Electrónica | Analista de Datos | Aspirante a Investigadora en IA
+## Electronic Engineer | AI & Data Science
 
 Especialista en procesamiento de señales digitales, análisis de datos y desarrollo de soluciones con Machine Learning.
 
