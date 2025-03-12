@@ -26,7 +26,7 @@ Sistema de trading algorítmico para criptomonedas basado en machine learning.
 - 
 ### Proyecto de Investigación Aplicada
 
-**[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
+**Ultrasonic-Anemometer-IoT**  
 Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
 - Resolución: 0.03 m/s (velocidad), 1.96° (dirección)
 - Sistema autónomo con energía solar y transmisión de datos a la nube
