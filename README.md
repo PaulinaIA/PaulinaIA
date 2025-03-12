@@ -70,6 +70,15 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
 - **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
   - Especialización en sistemas embebidos y procesamiento digital de señales
 
+### 🎓 Cursos y Certificaciones
+
+- **LLM Engineering: Master AI, Large Language Models & Agents** - Udemy (2025)
+- **TensorFlow for Deep Learning Bootcamp** - Udemy (2025)
+- **Machine Learning de A a la Z: R y Python para Data Science** - Udemy (2024)
+- **Master in SQL Server: From Zero to Professional Level** - Udemy (2024)
+- **Exploratory Data Analysis for Machine Learning** - IBM (2022)
+- **Supervised Machine Learning: Regression** - IBM (2022)
+
 ### 🌐 Idiomas
 
 - Español (Nativo)
