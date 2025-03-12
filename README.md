@@ -1,90 +1,108 @@
-# 👋 Hola, soy Paulina Peralta (@PaulinaIA)
-## Ingeniera de IA & Científica de Datos | Aspirante a Investigadora
+# Paulina Peralta (@PaulinaIA)
+## Ingeniera en Electrónica | Analista de Datos | Aspirante a Investigadora en IA
 
-Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural y el análisis de datos para resolver problemas complejos. Mi enfoque combina métodos avanzados de ML/DL para análisis de sentimiento, predicción de series temporales y modelado de datos multimodales.
+Especialista en procesamiento de señales digitales, análisis de datos y aplicación de técnicas de Machine Learning para soluciones de problemas complejos. Con experiencia en investigación aplicada y desarrollo de modelos predictivos.
 
-**Actualmente preparándome para cursar un Máster en IA con enfoque en investigación.**
+**Candidata al Máster en Inteligencia Artificial - Universidad Politécnica de Madrid**
 
-### 💡 Áreas de Especialización e Interés
+### Áreas de Especialización
 
-- **Modelos transformer para NLP y series temporales**: Adaptación de arquitecturas transformer para análisis financieros y predicción de tendencias.
-  
-- **Análisis de sentimiento y NLP avanzado**: Detección de matices emocionales en textos multilingües mediante transfer learning y fine-tuning.
-  
-- **Predicción con modelos híbridos**: Combinación de redes recurrentes (LSTM/GRU) con mecanismos de atención para predicciones en mercados volátiles.
-  
-- **Computer vision aplicada**: Detección y segmentación para aplicaciones de monitoreo ambiental y reconocimiento de patrones.
+- Procesamiento digital de señales y sistemas embebidos
+- Análisis predictivo y series temporales
+- Desarrollo de soluciones IoT
+- Modelos de NLP y análisis de sentimiento
+- Sistemas de instrumentación de bajo costo
 
-### 🛠️ Stack Tecnológico
+### Experiencia en Investigación
 
-**Lenguajes:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Miembro del Grupo de Investigación (DEI) | 2022-2024**  
+*Universidad Católica Nuestra Señora de la Asunción*
+- Desarrollo de instrumentación meteorológica de precisión y bajo costo
+- Diseño de algoritmos para procesamiento digital de señales ultrasónicas
+- Implementación de sistemas IoT autónomos energéticamente
 
-**ML/DL:** 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+### Experiencia Profesional
 
-**Análisis y Visualización:** 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat)
+**Business Intelligence Analyst | 2024-Presente**  
+*Centro de Inteligencia y Análisis del Grupo Luminotecnia*
+- Desarrollo de modelos predictivos para proyección de ventas
+- Implementación de procesos ETL para integración de datos
+- Análisis de segmentación de clientes y métricas NPS
 
-**Herramientas:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+**Ingeniera Junior en Planificación de IP CORE | 2022-2024**  
+*Tigo Paraguay*
+- Implementación de modelos LSTM para predicción de tráfico en enlaces de red
+- Desarrollo de aplicaciones para análisis probabilístico de infraestructura
+- Planificación de capacidad de red mediante análisis de tráfico
 
-**Especialidades:** 
-![NLP](https://img.shields.io/badge/NLP-8957e5?style=flat)
-![Time Series](https://img.shields.io/badge/Time_Series-2C8EBB?style=flat)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-4c8dae?style=flat)
+### Proyectos Destacados
 
-### 🚀 Proyectos Destacados
+**[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
+Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
+- Resolución: 0.03 m/s (velocidad), 1.96° (dirección)
+- Sistema autónomo con energía solar
+- Tecnologías: C++, ESP8266, Procesamiento de señales digitales
 
-- **[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)** - Sistema de predicción avanzado para mercados de criptomonedas combinando LSTM, Random Forest y mecanismos de atención. **Resultados principales:**
-  - Precisión del 73.5% en predicciones a 24 horas
-  - Mejora del 8.2% en RMSE comparado con modelos tradicionales (ARIMA, Prophet)
-  - Implementación de técnicas de feature engineering adaptadas a la volatilidad de mercados crypto
+**[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)**  
+Sistema predictivo para mercados de criptomonedas.
+- Tecnologías: Python, XGBoost, Pandas, NumPy, Optuna
+- Precisión: 73.5% en predicciones a 24 horas
+- Incluye pipeline completo: extracción de datos, procesamiento y modelado
 
-- **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)** - Análisis de la relación entre condiciones climáticas y sentimiento colectivo en redes sociales. **Características:**
-  - Modelo RoBERTa fine-tuned con F1-score de 0.82 en clasificación de sentimiento
-  - Pipeline completo desde extracción de datos de Reddit hasta visualización de correlaciones
-  - Identificación de patrones estadísticamente significativos entre variables ambientales y emocionales
+**[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
+Análisis de correlación entre condiciones climáticas y sentimiento en redes sociales.
+- Tecnologías: Python, Transformers, NLTK, SpaCy, scikit-learn
+- Implementación: Modelos NLP para análisis de sentimiento y clustering semántico
 
-- **[Harry-Potter-LLMs-Adventure](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)** - Chatbot interactivo que genera experiencias narrativas personalizadas. **Aspectos técnicos:**
-  - Sistema de memoria contextual para mantener coherencia narrativa entre sesiones
-  - Evaluación con 45 usuarios para comparar la calidad narrativa entre diferentes modelos
-  - Implementación de técnicas de prompt engineering para control narrativo
+### Formación Académica
 
-### 📚 Formación Académica
+**Ingeniería en Electrónica | 2022-2024**  
+*Universidad Católica Nuestra Señora de la Asunción*
 
-- **Ingeniería en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
-  - Proyecto final de carrera: "Diseño e implementación de un anemómetro ultrasónico del tipo IOT de bajo costo relativo"
+**Licenciatura en Electrónica | 2016-2022**  
+*Universidad Católica Nuestra Señora de la Asunción*
 
-- **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
-  - Especialización en sistemas embebidos y procesamiento digital de señales
+### Cursos y Certificaciones
 
-### 🎓 Cursos y Certificaciones
+**LLM Engineering: Master AI, Large Language Models & Agents**  
+*Udemy | 2025*
 
-- **LLM Engineering: Master AI, Large Language Models & Agents** - Udemy (2025)
-- **TensorFlow for Deep Learning Bootcamp** - Udemy (2025)
-- **Machine Learning de A a la Z: R y Python para Data Science** - Udemy (2024)
-- **Master in SQL Server: From Zero to Professional Level** - Udemy (2024)
-- **Exploratory Data Analysis for Machine Learning** - IBM (2022)
-- **Supervised Machine Learning: Regression** - IBM (2022)
+**TensorFlow for Deep Learning Bootcamp**  
+*Udemy | 2025*
 
-### 🌐 Idiomas
+**Machine Learning de A a la Z: R y Python para Data Science**  
+*Udemy | 2024*
+
+**Master in SQL Server: From Zero to Professional Level**  
+*Udemy | 2024*
+
+**Exploratory Data Analysis for Machine Learning**  
+*IBM | 2022*
+
+**Supervised Machine Learning: Regression**  
+*IBM | 2022*
+
+### Stack Tecnológico
+
+**Lenguajes:**
+Python, R, SQL, MATLAB, C/C++
+
+**ML/Data:**
+TensorFlow, scikit-learn, Pandas, NumPy, XGBoost, Apache Spark
+
+**IoT/Embebidos:**
+ESP8266, TIVA, PsoC
+
+**Herramientas:**
+Docker, Git, Power BI, Knime, Airflow, LaTeX
+
+### Idiomas
 
 - Español (Nativo)
-- Inglés (Intermedio) 
+- Inglés (Intermedio)
+- Guaraní (Básico)
 
-### 📫 Contacto
+### Contacto
 
 - LinkedIn: [paulina-peralta](https://www.linkedin.com/in/paulina-peralta-916a46140/)
 - Email: pauliperalta@gmail.com
