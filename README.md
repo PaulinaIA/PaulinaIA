@@ -1,7 +1,7 @@
 # Paulina Peralta (@PaulinaIA)
 ## Electronic Engineer | AI & Data Science
 
-### Proyectos Destacados
+### Proyectos Personales
 
 **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
 Sistema integral para análisis de contenido sobre cambio climático en Reddit.
@@ -23,6 +23,8 @@ Sistema de trading algorítmico para criptomonedas basado en machine learning.
 - Precisión: 74% en predicciones, ROC AUC: ~0.88
 - Pipeline completo: extracción de datos desde APIs, procesamiento con 15+ indicadores técnicos, balanceo con SMOTE
 - Tecnologías: Python, XGBoost, scikit-learn, Pandas, NumPy, Optuna
+- 
+### Proyecto de Investigación Aplicada
 
 **[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
 Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
