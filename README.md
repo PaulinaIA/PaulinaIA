@@ -62,11 +62,6 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
   - Evaluación con 45 usuarios para comparar la calidad narrativa entre diferentes modelos
   - Implementación de técnicas de prompt engineering para control narrativo
 
-- **[Transformer-TimeSeries-Analysis](https://github.com/PaulinaIA/Transformer-TimeSeries-Analysis)** - Adaptación de arquitecturas transformer para predicción financiera. **Innovaciones:**
-  - Modelo personalizado con embeddings temporales y atención multi-escala
-  - Mejora del 12.4% en MAE comparado con modelos de serie temporal tradicionales
-  - Técnicas especializadas para capturar dependencias temporales complejas
-
 ### 📚 Formación Académica
 
 - **Ingeniería en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
