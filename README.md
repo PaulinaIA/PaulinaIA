@@ -33,11 +33,13 @@ Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
 - Tecnologías: C++, ESP8266, Procesamiento de señales digitales
 - Proyecto final de carrera con calificación máxima
 
-### Áreas de Especialización
+### Áreas de Especialización e Interés
 
+- Inteligencia Artificial y Aprendizaje Profundo
+- Procesamiento de Lenguaje Natural (NLP)
+- Sistemas conversacionales e IA narrativa
 - Análisis predictivo y series temporales
-- NLP y análisis de sentimiento
-- Desarrollo de soluciones IoT
+- Electrónica aplicada y soluciones IoT
 - Procesamiento digital de señales
 
 ### Experiencia en Investigación
