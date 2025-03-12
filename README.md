@@ -27,12 +27,7 @@ Sistema de trading algorítmico para criptomonedas basado en machine learning.
 ### Proyecto de Investigación Aplicada
 
 **Ultrasonic-Anemometer-IoT**  
-Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
-- Resolución: 0.03 m/s (velocidad), 1.96° (dirección)
-- Sistema autónomo con energía solar y transmisión de datos a la nube
-- Tecnologías: C++, ESP8266, Procesamiento de señales digitales
-- Proyecto final de carrera con calificación máxima
-
+Análisis, diseño, implementación y evaluación experimental de un anemómetro ultrasónico bidimensional utilizando técnicas de tiempo de vuelo. Sistema de bajo coste relativo, autónomo de energía y del tipo IoT (Internet of Things), con la capacidad de transmitir las mediciones y registrarlas en la nube.
 ### Áreas de Especialización e Interés
 
 - Inteligencia Artificial y Aprendizaje Profundo
