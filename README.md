@@ -28,11 +28,10 @@ Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
 
 ### Áreas de Especialización
 
-- Procesamiento digital de señales
 - Análisis predictivo y series temporales
-- Desarrollo de soluciones IoT
 - NLP y análisis de sentimiento
-- Instrumentación de bajo costo
+- Desarrollo de soluciones IoT
+- Procesamiento digital de señales
 
 ### Experiencia en Investigación
 
