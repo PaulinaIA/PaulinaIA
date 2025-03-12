@@ -5,6 +5,14 @@ Especialista en procesamiento de señales digitales, análisis de datos y desarr
 
 ### Proyectos Destacados
 
+**[Harry-Potter-Adventure-AI](https://github.com/PaulinaIA/harry-potter-adventure)**  
+Prototipo de investigación en IA narrativa y sistemas conversacionales usando el universo de Harry Potter.
+- Implementación de sistemas de memoria contextual para mantener coherencia narrativa
+- Análisis semántico para extracción de atributos y modelado de personalidad
+- Arquitectura modular para gestión de estado del mundo ficticio
+- Tecnologías: Python, LLMs, Procesamiento de Lenguaje Natural, Sistemas Conversacionales
+
+
 **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
 Sistema integral para análisis de contenido sobre cambio climático en Reddit.
 - Implementación de análisis multi-método combinando VADER (enfoque léxico) y modelos transformer (contextual)
