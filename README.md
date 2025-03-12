@@ -5,12 +5,12 @@ Especialista en procesamiento de señales digitales, análisis de datos y desarr
 
 ### Proyectos Destacados
 
-**[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
-Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
-- Resolución: 0.03 m/s (velocidad), 1.96° (dirección)
-- Sistema autónomo con energía solar y transmisión de datos a la nube
-- Tecnologías: C++, ESP8266, Procesamiento de señales digitales
-- Proyecto final de carrera con calificación máxima
+**[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
+Sistema integral para análisis de contenido sobre cambio climático en Reddit.
+- Implementación de análisis multi-método combinando VADER (enfoque léxico) y modelos transformer (contextual)
+- Clustering semántico con SentenceTransformers y modelado de tópicos mediante LDA
+- Reconocimiento de entidades nombradas para identificar actores relevantes en el discurso climático
+- Tecnologías: Python, PySpark, HuggingFace, NLTK, spaCy, scikit-learn
 
 **[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)**  
 Sistema de trading algorítmico para criptomonedas basado en machine learning.
@@ -19,12 +19,12 @@ Sistema de trading algorítmico para criptomonedas basado en machine learning.
 - Pipeline completo: extracción de datos desde APIs, procesamiento con 15+ indicadores técnicos, balanceo con SMOTE
 - Tecnologías: Python, XGBoost, scikit-learn, Pandas, NumPy, Optuna
 
-**[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
-Sistema integral para análisis de contenido sobre cambio climático en Reddit.
-- Implementación de análisis multi-método combinando VADER (enfoque léxico) y modelos transformer (contextual)
-- Clustering semántico con SentenceTransformers y modelado de tópicos mediante LDA
-- Reconocimiento de entidades nombradas para identificar actores relevantes en el discurso climático
-- Tecnologías: Python, PySpark, HuggingFace, NLTK, spaCy, scikit-learn
+**[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
+Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
+- Resolución: 0.03 m/s (velocidad), 1.96° (dirección)
+- Sistema autónomo con energía solar y transmisión de datos a la nube
+- Tecnologías: C++, ESP8266, Procesamiento de señales digitales
+- Proyecto final de carrera con calificación máxima
 
 ### Áreas de Especialización
 
