@@ -40,14 +40,6 @@ Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
 - Desarrollo de soluciones IoT
 - Procesamiento digital de señales
 
-### Experiencia en Investigación
-
-**Miembro del Grupo de Investigación (DEI) | 2022-2024**  
-*Universidad Católica Nuestra Señora de la Asunción*
-- Desarrollo de instrumentación meteorológica de precisión y bajo costo
-- Diseño de algoritmos para procesamiento digital de señales ultrasónicas
-- Implementación de sistemas IoT autónomos energéticamente
-
 ### Stack Tecnológico
 
 **Lenguajes:**
