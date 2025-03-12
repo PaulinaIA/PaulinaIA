@@ -74,14 +74,7 @@ Apasionada por la Inteligencia Artificial, el Procesamiento de Lenguaje Natural 
 
 - **Licenciada en Electrónica** - Universidad Católica Nuestra Señora de la Asunción
   - Especialización en sistemas embebidos y procesamiento digital de señales
-
-### 🔍 Investigación Actual
-
-- **Aplicación de transformer models en fintech**: Detección de anomalías y predicción de tendencias en datos financieros de alta frecuencia.
-  
-- **Análisis multimodal texto-imagen**: Integración de datos textuales y visuales para mejorar la comprensión contextual en análisis de sentimiento.
-  
-- **Técnicas de aprendizaje federado**: Preservación de privacidad en el entrenamiento de modelos de lenguaje para aplicaciones sensibles.
+  - 
 
 ### 🌐 Idiomas
 
