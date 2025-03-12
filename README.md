@@ -44,10 +44,11 @@ Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
 - Tecnologías: C++, ESP8266, Procesamiento de señales digitales
 
 **[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)**  
-Sistema predictivo para mercados de criptomonedas.
-- Tecnologías: Python, XGBoost, Pandas, NumPy, Optuna
-- Precisión: 73.5% en predicciones a 24 horas
-- Incluye pipeline completo: extracción de datos, procesamiento y modelado
+Sistema de trading algorítmico para criptomonedas basado en machine learning.
+- Implementación de modelo XGBoost optimizado con Optuna para clasificación de señales (Comprar/Vender/Mantener)
+- Precisión: 74% en predicciones, ROC AUC: ~0.88
+- Pipeline completo: extracción de datos desde APIs, procesamiento con 15+ indicadores técnicos, balanceo con SMOTE
+- Tecnologías: Python, XGBoost, scikit-learn, Pandas, NumPy, Optuna
 
 **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
 Análisis de correlación entre condiciones climáticas y sentimiento en redes sociales.
