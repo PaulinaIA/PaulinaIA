@@ -1,8 +1,6 @@
 # Paulina Peralta (@PaulinaIA)
 ## Electronic Engineer | AI & Data Science
 
-Especialista en procesamiento de señales digitales, análisis de datos y desarrollo de soluciones con Machine Learning.
-
 ### Proyectos Destacados
 
 **[Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)**  
