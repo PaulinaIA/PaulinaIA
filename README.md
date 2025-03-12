@@ -1,47 +1,18 @@
 # Paulina Peralta (@PaulinaIA)
 ## Ingeniera en Electrónica | Analista de Datos | Aspirante a Investigadora en IA
 
-Especialista en procesamiento de señales digitales, análisis de datos y aplicación de técnicas de Machine Learning para soluciones de problemas complejos. Con experiencia en investigación aplicada y desarrollo de modelos predictivos.
+Especialista en procesamiento de señales digitales, análisis de datos y desarrollo de soluciones con Machine Learning.
 
 **Candidata al Máster en Inteligencia Artificial - Universidad Politécnica de Madrid**
-
-### Áreas de Especialización
-
-- Procesamiento digital de señales y sistemas embebidos
-- Análisis predictivo y series temporales
-- Desarrollo de soluciones IoT
-- Modelos de NLP y análisis de sentimiento
-- Sistemas de instrumentación de bajo costo
-
-### Experiencia en Investigación
-
-**Miembro del Grupo de Investigación (DEI) | 2022-2024**  
-*Universidad Católica Nuestra Señora de la Asunción*
-- Desarrollo de instrumentación meteorológica de precisión y bajo costo
-- Diseño de algoritmos para procesamiento digital de señales ultrasónicas
-- Implementación de sistemas IoT autónomos energéticamente
-
-### Experiencia Profesional
-
-**Business Intelligence Analyst | 2024-Presente**  
-*Centro de Inteligencia y Análisis del Grupo Luminotecnia*
-- Desarrollo de modelos predictivos para proyección de ventas
-- Implementación de procesos ETL para integración de datos
-- Análisis de segmentación de clientes y métricas NPS
-
-**Ingeniera Junior en Planificación de IP CORE | 2022-2024**  
-*Tigo Paraguay*
-- Implementación de modelos LSTM para predicción de tráfico en enlaces de red
-- Desarrollo de aplicaciones para análisis probabilístico de infraestructura
-- Planificación de capacidad de red mediante análisis de tráfico
 
 ### Proyectos Destacados
 
 **[Ultrasonic-Anemometer-IoT](https://github.com/PaulinaIA/Ultrasonic-Anemometer-IoT)**  
 Anemómetro ultrasónico bidimensional de bajo costo con sistema IoT integrado.
 - Resolución: 0.03 m/s (velocidad), 1.96° (dirección)
-- Sistema autónomo con energía solar
+- Sistema autónomo con energía solar y transmisión de datos a la nube
 - Tecnologías: C++, ESP8266, Procesamiento de señales digitales
+- Proyecto final de carrera con calificación máxima
 
 **[Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)**  
 Sistema de trading algorítmico para criptomonedas basado en machine learning.
@@ -57,33 +28,21 @@ Sistema integral para análisis de contenido sobre cambio climático en Reddit.
 - Reconocimiento de entidades nombradas para identificar actores relevantes en el discurso climático
 - Tecnologías: Python, PySpark, HuggingFace, NLTK, spaCy, scikit-learn
 
-### Formación Académica
+### Áreas de Especialización
 
-**Ingeniería en Electrónica | 2022-2024**  
+- Procesamiento digital de señales
+- Análisis predictivo y series temporales
+- Desarrollo de soluciones IoT
+- NLP y análisis de sentimiento
+- Instrumentación de bajo costo
+
+### Experiencia en Investigación
+
+**Miembro del Grupo de Investigación (DEI) | 2022-2024**  
 *Universidad Católica Nuestra Señora de la Asunción*
-
-**Licenciatura en Electrónica | 2016-2022**  
-*Universidad Católica Nuestra Señora de la Asunción*
-
-### Cursos y Certificaciones
-
-**LLM Engineering: Master AI, Large Language Models & Agents**  
-*Udemy | 2025*
-
-**TensorFlow for Deep Learning Bootcamp**  
-*Udemy | 2025*
-
-**Machine Learning de A a la Z: R y Python para Data Science**  
-*Udemy | 2024*
-
-**Master in SQL Server: From Zero to Professional Level**  
-*Udemy | 2024*
-
-**Exploratory Data Analysis for Machine Learning**  
-*IBM | 2022*
-
-**Supervised Machine Learning: Regression**  
-*IBM | 2022*
+- Desarrollo de instrumentación meteorológica de precisión y bajo costo
+- Diseño de algoritmos para procesamiento digital de señales ultrasónicas
+- Implementación de sistemas IoT autónomos energéticamente
 
 ### Stack Tecnológico
 
@@ -99,11 +58,22 @@ ESP8266, TIVA, PsoC
 **Herramientas:**
 Docker, Git, Power BI, Knime, Airflow, LaTeX
 
-### Idiomas
+### Formación Académica
 
-- Español (Nativo)
-- Inglés (Intermedio)
-- Guaraní (Básico)
+**Ingeniería en Electrónica | 2022-2024**  
+*Universidad Católica Nuestra Señora de la Asunción*
+
+**Licenciatura en Electrónica | 2016-2022**  
+*Universidad Católica Nuestra Señora de la Asunción*
+
+### Cursos y Certificaciones
+
+**LLM Engineering: Master AI, Large Language Models & Agents** - *Udemy, 2025*  
+**TensorFlow for Deep Learning Bootcamp** - *Udemy, 2025*  
+**Machine Learning de A a la Z: R y Python** - *Udemy, 2024*  
+**Master in SQL Server: Professional Level** - *Udemy, 2024*  
+**Exploratory Data Analysis for ML** - *IBM, 2022*  
+**Supervised Machine Learning: Regression** - *IBM, 2022*
 
 ### Contacto
 
