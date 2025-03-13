@@ -10,7 +10,7 @@ Sistema integral para análisis de contenido sobre cambio climático en Reddit.
 - Reconocimiento de entidades nombradas para identificar actores relevantes en el discurso climático
 - Tecnologías: Python, PySpark, HuggingFace, NLTK, spaCy, scikit-learn
 
-**[Harry-Potter-Adventure-AI](https://github.com/PaulinaIA/harry-potter-adventure)**  
+**[Harry-Potter-Adventure-AI](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)**  
 Prototipo de investigación en IA narrativa y sistemas conversacionales usando el universo de Harry Potter.
 - Implementación de sistemas de memoria contextual para mantener coherencia narrativa
 - Análisis semántico para extracción de atributos y modelado de personalidad
