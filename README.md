@@ -77,17 +77,7 @@ ESP8266 • TIVA • PSoC • Digital Signal Processing
 
 ## Projects
 
-### 🌦️ Weather-Mood Sentiment Analysis
-NLP + PySpark + HuggingFace  
-Hybrid sentiment pipeline (VADER + transformer) • Topic modeling (LDA) • Semantic clustering (SentenceTransformers) • Named Entity Recognition  
-**Repo:** [Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)
-
-### 🧙‍♂️ Harry Potter LLMs Adventure
-Narrative AI + Conversational Memory  
-Story coherence using memory modules • Personality & character modeling • Modular world-state engine  
-**Repo:** [Harry-Potter-LLMs-Adventure](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)
-
-### 🛡️ Dark Eye Core — Threat Intelligence ETL
+### Dark Eye Core — Threat Intelligence ETL
 Docker + AWS + Microservices  
 
 ![CyberPulse Architecture](assets/cyberpulse-diagram.png)
@@ -97,6 +87,16 @@ Docker + AWS + Microservices
 - Normalization + cross-indicator detection
 - Modular Dockerized architecture
 - Cloud-ready (ECR / EKS / S3)
+
+### Weather-Mood Sentiment Analysis
+NLP + PySpark + HuggingFace  
+Hybrid sentiment pipeline (VADER + transformer) • Topic modeling (LDA) • Semantic clustering (SentenceTransformers) • Named Entity Recognition  
+**Repo:** [Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)
+
+### Harry Potter LLMs Adventure
+Narrative AI + Conversational Memory  
+Story coherence using memory modules • Personality & character modeling • Modular world-state engine  
+**Repo:** [Harry-Potter-LLMs-Adventure](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)
 
 ### 📈 Crypto ML Predictor
 XGBoost + Optuna + Full Pipeline  
