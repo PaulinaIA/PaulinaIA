@@ -75,7 +75,7 @@ ESP8266 • TIVA • PSoC • Digital Signal Processing
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🌦️ Weather-Mood Sentiment Analysis
 NLP + PySpark + HuggingFace  
@@ -105,7 +105,7 @@ XGBoost + Optuna + Full Pipeline
 
 ---
 
-## 📫 Contact
+## Contact
 
 **LinkedIn:** [linkedin.com/in/paulina-peralta-916a46140](https://www.linkedin.com/in/paulina-peralta-916a46140/)  
 **GitHub:** [github.com/PaulinaIA](https://github.com/PaulinaIA)  
