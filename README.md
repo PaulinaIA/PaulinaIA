@@ -31,8 +31,7 @@ My goal is to build technology with purpose.
 ## Highlights
 ```yaml
 Current:
-  - MSc in Data Science (Incoming 2025)
-  - Preparing PhD applications
+  - MSc in Data Science
   - Developing cybersecurity ETL platform (Dark Eye Core)
   - Studying generative models for detector simulation
 Strengths:
