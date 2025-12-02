@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3eW1uNm5oYjk4OHlxenNid20wbDliMGpzcTZ4Y2M0N3BvdWpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPjlm8c4DRzXK/giphy.gif" width="300">
 </p>
 
-<h1 align="center">🌌 Paulina Peralta (@PaulinaIA)</h1>
+<h1 align="center">Paulina Peralta (@PaulinaIA)</h1>
 <h3 align="center">AI & Data Science • Electronic Engineer </h3>
 
 <p align="center">
