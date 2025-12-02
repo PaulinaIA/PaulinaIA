@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🌌 Paulina Peralta (@PaulinaIA)</h1>
-<h3 align="center">AI & Data Science • Electronic Engineer • Future MSc & PhD Candidate</h3>
+<h3 align="center">AI & Data Science • Electronic Engineer </h3>
 
 <p align="center">
   <b>Building meaningful AI • Scientific simulation • NLP • Cloud pipelines </b>
