@@ -17,7 +17,7 @@
 
 ## 🚀 Overview
 
-Hi! I'm **Paulina**, an Electronic Engineer preparing for my **MSc in Data Science (La Salle Barcelona 2025–2026)** and building a strong research profile to apply for a **PhD in Artificial Intelligence (Australia, 2026)**.
+Hi! I'm **Paulina**, an Electronic Engineer preparing for my **MSc in Data Science (La Salle Barcelona 2025–2026)** and building a strong research profile to apply for a **PhD in Artificial Intelligence**.
 
 My work blends:
 
