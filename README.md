@@ -22,7 +22,6 @@ I am an Electronic Engineer focused on:
 - Generative AI for scientific simulation  
 - Fast calorimeter simulation (CaloDiT-2, DiT, diffusion models)  
 - Large-scale ETL pipelines (Spark, Docker, AWS ECR/EKS/S3, Airflow)  
-- NLP and narrative AI  
 
 My goal is to build technology with purpose.
 
