@@ -85,7 +85,6 @@ Docker + AWS + Microservices
 - Multi-source extraction (AbuseIPDB, URLhaus, OTX)
 - Normalization + cross-indicator detection
 - Modular Dockerized architecture
-- Cloud-ready (ECR / EKS / S3)
 
 ### Weather-Mood Sentiment Analysis
 NLP + PySpark + HuggingFace  
@@ -97,7 +96,7 @@ Narrative AI + Conversational Memory
 Story coherence using memory modules • Personality & character modeling • Modular world-state engine  
 **Repo:** [Harry-Potter-LLMs-Adventure](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)
 
-### 📈 Crypto ML Predictor
+### Crypto ML Predictor
 XGBoost + Optuna + Full Pipeline  
 74% accuracy • ROC AUC ≈ 0.88 • Buy/Sell/Hold classifier • 15+ technical indicators • End-to-end workflow  
 **Repo:** [Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)
