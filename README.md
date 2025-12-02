@@ -6,7 +6,7 @@
 <h3 align="center">AI & Data Science • Electronic Engineer • Future MSc & PhD Candidate</h3>
 
 <p align="center">
-  <b>Building meaningful AI • Scientific simulation • NLP • Cloud pipelines • IoT</b>
+  <b>Building meaningful AI • Scientific simulation • NLP • Cloud pipelines </b>
 </p>
 
 <p align="center">
@@ -15,43 +15,99 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
-Hi! I'm **Paulina**, an Electronic Engineer preparing for my **MSc in Data Science (La Salle Barcelona 2025–2026)** and building a strong research profile to apply for a **PhD in Artificial Intelligence**.
+I am an Electronic Engineer focused on:
 
-My work blends:
+- Generative AI for scientific simulation  
+- Fast calorimeter simulation (CaloDiT-2, DiT, diffusion models)  
+- Large-scale ETL pipelines (Spark, Docker, AWS ECR/EKS/S3, Airflow)  
+- NLP and narrative AI  
 
-- **Generative AI for scientific simulation**  
-- **Fast calorimeter simulation (CaloDiT-2, diffusion transformers)**  
-- **Large-scale ETL pipelines (Spark, Docker, AWS, Airflow)**  
-- **IoT, embedded systems & DSP**  
-- **Narrative AI & conversational memory systems**  
-
----
-
-# 🎯 Quick Navigation
-
-- [🔥 Highlights](#-highlights)  
-- [🛠️ Tech Stack](#️-tech-stack)  
-- [🧠 Research Focus](#-research-focus)  
-- [📂 Projects](#-projects)  
-- [📊 Architecture Diagrams](#-architecture-diagrams)  
-- [🎬 Showcase](#-showcase)  
-- [📫 Contact](#-contact)  
+My goal is to build technology with purpose.
 
 ---
 
-# 🔥 Highlights
-
+## Highlights
 ```yaml
 Current:
   - MSc in Data Science (Incoming 2025)
-  - Preparing PhD applications (AI Simulation Research)
-  - Developing large ETL cybersecurity system (CyberPulse)
-  - Training generative models for detector simulation
+  - Preparing PhD applications
+  - Developing cybersecurity ETL platform (Dark Eye Core)
+  - Studying generative models for detector simulation
 Strengths:
   - Deep Learning (Diffusion, DiT, Transformers)
-  - Big Data processing (Spark, distributed pipelines)
-  - AWS cloud-native architectures
-  - Research-oriented engineering
+  - Big Data (Spark, distributed pipelines)
+  - AWS cloud-native design
+  - Research-oriented engineering mindset
+```
 
+---
+
+## Tech Stack
+
+**Languages**  
+Python • R • SQL • MATLAB • C/C++
+
+**AI / ML**  
+TensorFlow • PyTorch • scikit-learn • HuggingFace • XGBoost • Apache Spark
+
+**Cloud & DevOps**  
+Docker • AWS (ECR, EKS, S3, IAM) • Kubernetes • Airflow • Git / GitHub Actions
+
+**IoT & Embedded**  
+ESP8266 • TIVA • PSoC • Digital Signal Processing
+
+---
+
+## Research Focus
+
+**Generative AI for Physics Simulation**
+- Adapting CaloDiT-2 to LHCb ECAL geometry
+- Universal Geometry Representations (UGR → projection → fine-tuning)
+- Diffusion Transformers for calorimeter simulation
+- GPU optimization (FlashAttention, checkpointing)
+
+**IoT & Embedded Systems**
+- Ultrasonic time-of-flight sensing
+- Low-cost meteorological instrumentation
+- Autonomous IoT design
+
+---
+
+## 📂 Projects
+
+### 🌦️ Weather-Mood Sentiment Analysis
+NLP + PySpark + HuggingFace  
+Hybrid sentiment pipeline (VADER + transformer) • Topic modeling (LDA) • Semantic clustering (SentenceTransformers) • Named Entity Recognition  
+**Repo:** [Weather-Mood-Sentiment-NLP-Analysis](https://github.com/PaulinaIA/Weather-Mood-Sentiment-NLP-Analysis)
+
+### 🧙‍♂️ Harry Potter LLMs Adventure
+Narrative AI + Conversational Memory  
+Story coherence using memory modules • Personality & character modeling • Modular world-state engine  
+**Repo:** [Harry-Potter-LLMs-Adventure](https://github.com/PaulinaIA/Harry-Potter-LLMs-Adventure)
+
+### 🛡️ Dark Eye Core — Threat Intelligence ETL
+Docker + AWS + Microservices  
+
+![CyberPulse Architecture](assets/cyberpulse-diagram.png)
+
+**Features:**
+- Multi-source extraction (AbuseIPDB, URLhaus, OTX)
+- Normalization + cross-indicator detection
+- Modular Dockerized architecture
+- Cloud-ready (ECR / EKS / S3)
+
+### 📈 Crypto ML Predictor
+XGBoost + Optuna + Full Pipeline  
+74% accuracy • ROC AUC ≈ 0.88 • Buy/Sell/Hold classifier • 15+ technical indicators • End-to-end workflow  
+**Repo:** [Crypto-ML-Predictor](https://github.com/PaulinaIA/Crypto-ML-Predictor)
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** [linkedin.com/in/paulina-peralta-916a46140](https://www.linkedin.com/in/paulina-peralta-916a46140/)  
+**GitHub:** [github.com/PaulinaIA](https://github.com/PaulinaIA)  
+**Email:** pauliperalta@gmail.com  
+**Location:** Barcelona
