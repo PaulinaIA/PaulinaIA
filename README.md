@@ -61,11 +61,12 @@ ESP8266 • TIVA • PSoC • Digital Signal Processing
 
 ## Research Focus
 
-**Generative AI for Physics Simulation**
+<!--**Generative AI for Physics Simulation**
 - Adapting CaloDiT-2 to LHCb ECAL geometry
 - Universal Geometry Representations (UGR → projection → fine-tuning)
 - Diffusion Transformers for calorimeter simulation
 - GPU optimization (FlashAttention, checkpointing)
+-->
 
 **IoT & Embedded Systems**
 - Ultrasonic time-of-flight sensing
