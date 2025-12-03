@@ -6,7 +6,7 @@
 <h3 align="center">AI & Data Science • Electronic Engineer </h3>
 
 <p align="center">
-  <b>Building meaningful AI • Scientific simulation • NLP • Cloud pipelines </b>
+  <b>Building meaningful AI • Cloud pipelines </b>
 </p>
 
 <p align="center">
