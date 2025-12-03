@@ -84,6 +84,7 @@ Docker + AWS + Microservices
 - Multi-source extraction (AbuseIPDB, URLhaus, OTX)
 - Normalization + cross-indicator detection
 - Modular Dockerized architecture
+**Repo:** [dark_eye_core](https://github.com/PaulinaIA/dark_eye_core)
 
 ### Weather-Mood Sentiment Analysis
 NLP + PySpark + HuggingFace  
