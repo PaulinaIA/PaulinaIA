@@ -51,7 +51,7 @@ flowchart LR
 
 ## Featured projects (my current favorites)
 
-### 🌸 Bloom — Adaptive fertility prediction (ML + personalization)
+### Bloom — Adaptive fertility prediction (ML + personalization)
 A cycle prediction system that combines ML + personalized signals to estimate cycle length and ovulation timing.
 - Clean modular design (feature engineering + predictors + evaluation)
 - Emphasis on interpretability and practical use
@@ -65,7 +65,7 @@ flowchart LR
 ```
 Repo: https://github.com/PaulinaIA/Bloom
 
-### 🛡️ Dark Eye Core — Threat Intelligence ETL + dashboards
+### Dark Eye Core — Threat Intelligence ETL + dashboards
 Pipeline that extracts and normalizes IoCs from multiple sources and visualizes them in Grafana.
 - Multi-source ingestion (AbuseIPDB / URLhaus / OTX)
 - Normalization + relational storage + observability-ready design
@@ -79,7 +79,7 @@ flowchart LR
 ```
 Repo: https://github.com/PaulinaIA/dark_eye_core
 
-### 🤖 Moltbook Safety — Web scraping + behavioral signals → karma prediction
+### Moltbook Safety — Web scraping + behavioral signals → karma prediction
 End-to-end data engineering + applied ML project.
 - Web scraping → relational model → processing with Polars/Spark → modeling (H2O AutoML)
 - Focus on content/behavior features and responsible analysis
