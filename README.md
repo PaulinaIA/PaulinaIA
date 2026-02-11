@@ -55,36 +55,42 @@ flowchart LR
 A cycle prediction system that combines ML + personalized signals to estimate cycle length and ovulation timing.
 - Clean modular design (feature engineering + predictors + evaluation)
 - Emphasis on interpretability and practical use
+```mermaid
 flowchart LR
   X[(User Logs)] --> FE[Feature Engineering]
   FE --> M1[Cycle Predictor]
   FE --> M2[Ovulation Classifier]
   M1 --> OUT[Predictions + Insights]
   M2 --> OUT
+```
 Repo: https://github.com/PaulinaIA/Bloom
 
 ### 🛡️ Dark Eye Core — Threat Intelligence ETL + dashboards
 Pipeline that extracts and normalizes IoCs from multiple sources and visualizes them in Grafana.
 - Multi-source ingestion (AbuseIPDB / URLhaus / OTX)
 - Normalization + relational storage + observability-ready design
+```mermaid
 flowchart LR
   S1[AbuseIPDB] --> N[Normalizers]
   S2[URLhaus] --> N
   S3[AlienVault OTX] --> N
   N --> DB[(PostgreSQL)]
   DB --> G[Grafana Dashboards]
+```
 Repo: https://github.com/PaulinaIA/dark_eye_core
 
 ### 🤖 Moltbook Safety — Web scraping + behavioral signals → karma prediction
 End-to-end data engineering + applied ML project.
 - Web scraping → relational model → processing with Polars/Spark → modeling (H2O AutoML)
 - Focus on content/behavior features and responsible analysis
+```mermaid
 flowchart LR
   W[Web Scraping] --> R[(Relational Tables)]
   R --> P[Processing<br/>Polars / Spark]
   P --> FS[Feature Set]
   FS --> ML[Modeling<br/>H2O AutoML]
-  ML --> EV[Metrics + Insights]  
+  ML --> EV[Metrics + Insights]
+``` 
 Repo: https://github.com/PaulinaIA/moltbook-safety
 
 ---
