@@ -2,8 +2,8 @@
 
 # Paulina Peralta
 
-Data Scientist · Data Engineer  
-Barcelona — open to remote (LATAM / EU)
+Data Scientist 
+Barcelona
 
 [LinkedIn](https://www.linkedin.com/in/paulina-peralta-916a46140/)
 &nbsp;·&nbsp;
